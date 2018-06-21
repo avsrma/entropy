@@ -32,7 +32,7 @@ def entropy():
     prob9 = numCount['9']/ float(total)
     
     #totProb = float(prob0 + prob1+ prob2 + prob3 + prob4 + prob5 + prob6 + prob7 + prob8 + prob9)    
-    
+   
 #    print prob0    
 #    print prob1
 #    print prob2
